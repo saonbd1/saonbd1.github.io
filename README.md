@@ -3,10 +3,7 @@
 | `saonbd1.github.io` | `Live Projects` | `OVERVIEW` |
 | :---- | :---: | ----: |
 
-# **`LIVE`** 
-A URL shortener accepts a long URL and returns a shorter URL. The short URL must still point to the original destination.
-
-I just implemented and published a url shortener on (https://eslotmain.xyz). Anyone can try this tool now with 2 ways:
+ 
 # **`PROECTS LIST`**
 
 - # `PROJECTS OVERVIEW`
