@@ -18,6 +18,7 @@ lang: en
 # Keep tooling and repository documentation out of the published output.
 exclude:
   - "scripts"
+  - "docs"
   - "README.md"
   - "Gemfile"
   - "Gemfile.lock"

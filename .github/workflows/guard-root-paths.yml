@@ -1,0 +1,52 @@
+# Guardrail: the URL path /light-seo-tools/ belongs to the project site published
+# from the repository saonbd1/light-seo-tools.
+#
+# If this repository (the user site, which owns the domain root) ever contains a
+# file or folder called light-seo-tools/, GitHub Pages would serve that content at
+# /light-seo-tools/… and silently shadow the real site.
+#
+# This check fails the run instead, so the mistake cannot be pushed unnoticed.
+name: Guard root paths
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  guard:
+    name: No path may shadow /light-seo-tools/
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check tracked paths
+        run: |
+          set -euo pipefail
+          offenders="$(git ls-files | grep -E '^"?light-seo-tools/' || true)"
+          if [ -n "$offenders" ]; then
+            echo "::error::This repository must not contain a 'light-seo-tools/' path."
+            echo ""
+            echo "That URL path is owned by the project site:"
+            echo "  https://saonbd1.github.io/light-seo-tools/"
+            echo "  repository: saonbd1/light-seo-tools"
+            echo ""
+            echo "Offending tracked paths:"
+            printf '%s\n' "$offenders"
+            exit 1
+          fi
+          echo "OK - no tracked path under light-seo-tools/."
+
+      - name: Check the Search Console verification file is still here
+        run: |
+          set -euo pipefail
+          if [ ! -f googleb05f2511ab0eee73.html ]; then
+            echo "::error::googleb05f2511ab0eee73.html is missing."
+            echo "Search Console verifies this domain through that root file, so it has to stay in this repository."
+            exit 1
+          fi
+          echo "OK - verification file present at the domain root."
