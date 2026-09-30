@@ -17,7 +17,10 @@
 
 require "fileutils"
 
-SITE = "https://saonbd1.github.io"
+# If you attach a custom domain, pass it as the first argument, e.g.
+#   ruby scripts/make_root_redirects.rb www.lightseotools.com
+HOST = (ARGV[0] || "saonbd1.github.io").to_s.sub(%r{\Ahttps?://}, "").sub(%r{/\z}, "")
+SITE = "https://#{HOST}"
 SUB  = "/light-seo-tools"
 
 def write_stub(relative_path, target)
