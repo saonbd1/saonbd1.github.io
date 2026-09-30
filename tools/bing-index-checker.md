@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/bing-index-checker/
+  - /light-seo-tools/tools/bing-index-checker.html
+
 layout: default
 title: Bing Index Checker
 seo_title: "Bing Index Checker — Bulk Index Status Report | Light SEO Tools"

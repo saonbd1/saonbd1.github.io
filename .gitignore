@@ -11,5 +11,5 @@ node_modules/
 supabase/.temp/
 
 # Windows download markers / agent tooling
-*.Zone.Identifier
+*Zone.Identifier
 .commandcode/

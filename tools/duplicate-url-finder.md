@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/duplicate-url-finder/
+  - /light-seo-tools/tools/duplicate-url-finder.html
+
 layout: default
 title: Duplicate URL Finder
 seo_title: "Duplicate URL Finder — Free Online URL Dedupe Tool | Light SEO Tools"

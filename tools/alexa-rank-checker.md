@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/alexa-rank-checker/
+  - /light-seo-tools/tools/alexa-rank-checker.html
+
 layout: default
 title: Alexa Rank Checker
 seo_title: "Alexa Rank Checker — Bulk Domain Rank Report | Light SEO Tools"

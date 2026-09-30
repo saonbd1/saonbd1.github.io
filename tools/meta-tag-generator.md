@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/meta-tag-generator/
+  - /light-seo-tools/tools/meta-tag-generator.html
+
 layout: default
 title: Meta Tag Generator
 seo_title: "Meta Tag Generator — Free Title & Description Tool | Light SEO Tools"

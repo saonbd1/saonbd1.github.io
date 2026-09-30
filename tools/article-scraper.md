@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/article-scraper/
+  - /light-seo-tools/tools/article-scraper.html
+
 layout: default
 title: Article Scraper
 seo_title: "Article Scraper — Free Readable Text Extractor Tool | Light SEO Tools"

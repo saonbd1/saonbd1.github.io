@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/alive-url-checker/
+  - /light-seo-tools/tools/alive-url-checker.html
+
 layout: default
 title: Alive URL Checker
 seo_title: "Alive URL Checker — Free Broken Link Tester | Light SEO Tools"

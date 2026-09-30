@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/trim-url-to-first-folder/
+  - /light-seo-tools/tools/trim-url-to-first-folder.html
+
 layout: default
 title: Trim URL to First Folder
 seo_title: "Trim URL to First Folder — Group URLs by Section Free"

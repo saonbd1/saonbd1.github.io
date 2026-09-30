@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/tdname-scrapper/
+  - /light-seo-tools/tools/tdname-scrapper.html
+
 layout: default
 title: Tdname Scrapper
 seo_title: "Tdname Scrapper — Bulk Domain Listing & Price Report"

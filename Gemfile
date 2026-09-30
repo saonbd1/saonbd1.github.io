@@ -9,3 +9,7 @@ gem "jekyll", "~> 4.4"
 # The site ships its own _layouts/default.html and assets/site.css, so the theme
 # is only a fallback, but Jekyll still needs the gem to be resolvable.
 gem "minima", "~> 2.5"
+
+# Generates redirect pages for old /light-seo-tools/... URLs (GitHub Pages
+# supports this plugin automatically on the hosted build).
+gem "jekyll-redirect-from", "~> 0.16"

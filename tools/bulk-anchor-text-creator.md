@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/bulk-anchor-text-creator/
+  - /light-seo-tools/tools/bulk-anchor-text-creator.html
+
 layout: default
 title: Bulk Anchor Text Creator
 seo_title: "Bulk Anchor Text Creator — Build HTML Links Free"

@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/google-index-checker/
+  - /light-seo-tools/tools/google-index-checker.html
+
 layout: default
 title: Google Index Checker
 seo_title: "Google Index Checker — Bulk Index Status Report"

@@ -20,7 +20,8 @@ supabase_url: "https://nlrvkjtvhajmwwicaygz.supabase.co"
 supabase_anon_key: ""
 
 theme: minima
-plugins: []
+plugins:
+  - jekyll-redirect-from
 
 # Keep internal documentation, samples and tooling files out of the published site.
 # Anything listed here is not copied to _site, so it cannot be indexed as thin

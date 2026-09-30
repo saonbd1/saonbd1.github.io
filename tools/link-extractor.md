@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/link-extractor/
+  - /light-seo-tools/tools/link-extractor.html
+
 layout: default
 title: Link Extractor
 permalink: /tools/link-extractor.html

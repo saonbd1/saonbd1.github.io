@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/email-generator/
+  - /light-seo-tools/tools/email-generator.html
+
 layout: default
 title: Email Generator
 seo_title: "Email Generator — Free Random Email Address Maker"

@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/bulk-nameserver-extractor/
+  - /light-seo-tools/tools/bulk-nameserver-extractor.html
+
 layout: default
 title: Bulk Nameserver Extractor
 seo_title: "Bulk Nameserver Extractor — DNS NS Lookup Report"

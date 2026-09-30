@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - /light-seo-tools/about/
+
 layout: page
 title: About
 permalink: /about/

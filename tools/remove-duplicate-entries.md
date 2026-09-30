@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/remove-duplicate-entries/
+  - /light-seo-tools/tools/remove-duplicate-entries.html
+
 layout: default
 title: Remove Duplicate Entries
 seo_title: "Remove Duplicate Entries — Dedupe Any Text List Free"

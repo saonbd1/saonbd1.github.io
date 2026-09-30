@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/trim-url-to-root/
+  - /light-seo-tools/tools/trim-url-to-root.html
+
 layout: default
 title: Trim URL to Root
 seo_title: "Trim URL to Root — Get Scheme and Host From URLs Free"

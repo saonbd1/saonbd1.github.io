@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/vanity-name-checker/
+  - /light-seo-tools/tools/vanity-name-checker.html
+
 layout: default
 title: Vanity Name Checker
 seo_title: "Vanity Name Checker — Username Availability Report"

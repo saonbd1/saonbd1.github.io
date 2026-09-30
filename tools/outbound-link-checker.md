@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/outbound-link-checker/
+  - /light-seo-tools/tools/outbound-link-checker.html
+
 layout: default
 title: Outbound Link Checker
 seo_title: "Outbound Link Checker — Find External Links Free | Light SEO Tools"

@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/bandwidth-meter/
+  - /light-seo-tools/tools/bandwidth-meter.html
+
 layout: default
 title: Bandwidth Meter
 seo_title: "Bandwidth Meter — Free Page Size Checker Tool | Light SEO Tools"

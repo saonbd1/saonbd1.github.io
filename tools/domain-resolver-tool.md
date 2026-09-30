@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/domain-resolver-tool/
+  - /light-seo-tools/tools/domain-resolver-tool.html
+
 layout: default
 title: Domain Resolver Tool
 seo_title: "Domain Resolver — Bulk DNS & IP Lookup Report | Light SEO Tools"

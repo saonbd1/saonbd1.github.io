@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/whois-scraper/
+  - /light-seo-tools/tools/whois-scraper.html
+
 layout: default
 title: Whois Scraper
 seo_title: "Whois Scraper — Bulk Domain Registration Report"

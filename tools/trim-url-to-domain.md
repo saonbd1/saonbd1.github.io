@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/trim-url-to-domain/
+  - /light-seo-tools/tools/trim-url-to-domain.html
+
 layout: default
 title: Trim URL to Domain
 seo_title: "Trim URL to Domain — Extract Domains From URLs Free"

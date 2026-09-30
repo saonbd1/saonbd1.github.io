@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/ocr-image-to-text/
+  - /light-seo-tools/tools/ocr-image-to-text.html
+
 layout: default
 title: OCR Image to Text Converter
 seo_title: "OCR Image to Text Converter — Free Online Optical Character Recognition | Light SEO Tools"

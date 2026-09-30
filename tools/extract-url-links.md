@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/extract-url-links/
+  - /light-seo-tools/tools/extract-url-links.html
+
 layout: default
 title: Extract URL Links
 seo_title: "Extract URL Links — Pull All URLs From Text Free"

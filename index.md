@@ -1,4 +1,7 @@
 ---
+redirect_from:
+  - /light-seo-tools/
+
 layout: default
 title: Free SEO Tools for URLs, Links & Meta Tags
 seo_title: "Light SEO Tools — Free Browser SEO Tools & Bulk Reports"

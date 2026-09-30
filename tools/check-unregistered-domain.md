@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/check-unregistered-domain/
+  - /light-seo-tools/tools/check-unregistered-domain.html
+
 layout: default
 title: Check Unregistered Domain
 seo_title: "Check Unregistered Domain — Bulk Availability Report"

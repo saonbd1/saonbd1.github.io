@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/dofollow-link-tester/
+  - /light-seo-tools/tools/dofollow-link-tester.html
+
 layout: default
 title: Dofollow Link Tester
 seo_title: "Dofollow Link Tester — Check Link rel Attributes | Light SEO Tools"

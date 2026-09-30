@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/tools-overview/
+  - /light-seo-tools/tools/tools-overview.html
+
 layout: default
 title: Tools
 description: Browser helpers and Scrapebox-backed SEO report workflows.

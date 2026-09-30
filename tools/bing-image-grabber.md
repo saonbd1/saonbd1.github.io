@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/bing-image-grabber/
+  - /light-seo-tools/tools/bing-image-grabber.html
+
 layout: default
 title: Bing Image Grabber
 seo_title: "Bing Image Grabber — Extract Image URLs Free | Light SEO Tools"

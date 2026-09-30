@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/meta-tag-scraper/
+  - /light-seo-tools/tools/meta-tag-scraper.html
+
 layout: default
 title: Meta Tag Scraper Report
 seo_title: "Meta Tag Scraper Report — Bulk Titles & Descriptions"

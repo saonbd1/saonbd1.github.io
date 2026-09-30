@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/social-account-scraper/
+  - /light-seo-tools/tools/social-account-scraper.html
+
 layout: default
 title: Social Account Scraper
 seo_title: "Social Account Scraper — Find Profiles by Domain | Light SEO Tools"

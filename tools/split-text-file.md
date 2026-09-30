@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/split-text-file/
+  - /light-seo-tools/tools/split-text-file.html
+
 layout: default
 title: Split Text File
 seo_title: "Split Text File — Break a List Into Parts Free"

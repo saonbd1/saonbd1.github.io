@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/legal-page-generator/
+  - /light-seo-tools/tools/legal-page-generator.html
+
 layout: default
 title: Legal Page Generator
 seo_title: "Legal Page Generator — Free Terms & Privacy Templates"

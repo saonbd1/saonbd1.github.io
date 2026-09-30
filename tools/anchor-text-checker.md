@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/anchor-text-checker/
+  - /light-seo-tools/tools/anchor-text-checker.html
+
 layout: default
 title: Anchor Text Checker
 seo_title: "Anchor Text Checker — Free Internal Link Audit Tool | Light SEO Tools"

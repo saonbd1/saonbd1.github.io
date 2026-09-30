@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/merge-duplicate-links/
+  - /light-seo-tools/tools/merge-duplicate-links.html
+
 layout: default
 title: Merge Duplicate Links
 seo_title: "Merge Duplicate Links — Combine Two URL Lists Free | Light SEO Tools"

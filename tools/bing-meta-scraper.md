@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/bing-meta-scraper/
+  - /light-seo-tools/tools/bing-meta-scraper.html
+
 layout: default
 title: Bing Meta Scraper
 seo_title: "Bing Meta Scraper — Extract Title & Meta Tags | Light SEO Tools"

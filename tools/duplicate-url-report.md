@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/duplicate-url-report/
+  - /light-seo-tools/tools/duplicate-url-report.html
+
 layout: default
 title: Duplicate URL Report
 seo_title: "Duplicate URL Report — Bulk URL Dedupe Service | Light SEO Tools"

@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/robots-txt-checker-generator/
+  - /light-seo-tools/tools/robots-txt-checker-generator.html
+
 layout: default
 title: Robots.txt Checker & Generator
 seo_title: "Robots.txt Checker & Generator — Free SEO Tool | Light SEO Tools"

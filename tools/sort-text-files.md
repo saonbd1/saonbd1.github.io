@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/sort-text-files/
+  - /light-seo-tools/tools/sort-text-files.html
+
 layout: default
 title: Sort Text Files
 seo_title: "Sort Text Files — Alphabetical & Numeric Sorter Free"

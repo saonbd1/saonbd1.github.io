@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/mass-url-shortener/
+  - /light-seo-tools/tools/mass-url-shortener.html
+
 layout: default
 title: Mass URL Shortener
 seo_title: "Mass URL Shortener — Bulk Shorten a URL List | Light SEO Tools"

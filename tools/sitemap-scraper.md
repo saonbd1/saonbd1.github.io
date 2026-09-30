@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/sitemap-scraper/
+  - /light-seo-tools/tools/sitemap-scraper.html
+
 layout: default
 title: Sitemap Scraper
 seo_title: "Sitemap Scraper — Extract All URLs From sitemap.xml Free"

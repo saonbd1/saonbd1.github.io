@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/name-generator/
+  - /light-seo-tools/tools/name-generator.html
+
 layout: default
 title: Name Generator
 seo_title: "Name Generator — Free Random Name Tool for Test Data"

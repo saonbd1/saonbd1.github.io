@@ -1,4 +1,8 @@
 ---
+redirect_from:
+  - /light-seo-tools/redirect-checker/
+  - /light-seo-tools/tools/redirect-checker.html
+
 layout: default
 title: Redirect Checker
 seo_title: "Redirect Checker — Free 301 & 302 Status Code Tool | Light SEO Tools"
