@@ -1,13 +1,10 @@
----
-layout: null
-permalink: /robots.txt
-sitemap: false
----
 User-agent: *
 Allow: /
 
-# Private / low-value pages are not for search engines.
-Disallow: /admin.html
-Disallow: /login.html
+# The tools site moved to /light-seo-tools/ (repository saonbd1/light-seo-tools).
+# Crawlers only read /robots.txt at the domain root, so the rules for the tools
+# site have to live here.
+Disallow: /light-seo-tools/admin.html
+Disallow: /light-seo-tools/login.html
 
-Sitemap: {{ '/sitemap.xml' | absolute_url }}
+Sitemap: https://saonbd1.github.io/light-seo-tools/sitemap.xml
