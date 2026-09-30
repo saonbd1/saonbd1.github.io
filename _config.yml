@@ -6,7 +6,7 @@ description: >-
   scrape meta tags, extract links, measure page size and check index status. Larger
   URL lists can be processed as Scrapebox reports and delivered by private link.
 lang: en
-baseurl: "/light-seo-tools"
+baseurl: ""
 url: "https://saonbd1.github.io"
 formspree_endpoint: "https://formspree.io/f/xaqrzqkg" # configured by user on 2026-07-31
 report_storage: "dropbox" # options: dropbox, gdrive, s3, local
